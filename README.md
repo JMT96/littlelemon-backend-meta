@@ -1,4 +1,4 @@
-# Little Lemon - Restaurant Reservation and Menu Management :lemon:
+# :lemon: Little Lemon - Restaurant Reservation and Menu Management :lemon:
 ## Welcome to the Restaurant Reservation and Menu Management System! This project allows users to explore the restaurant menu, make bookings, and learn more about the restaurant.
 
 
@@ -15,7 +15,7 @@ Booking Page:
 Menu Page:
     URL: /menu/
 
-### BACKEND API Endpoints
+### BACKEND API Endpoints 
 
 Menu Items - Retrieve All Menu Items
 ```
