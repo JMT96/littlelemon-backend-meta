@@ -16,27 +16,44 @@ Menu Page:
     URL: /menu/
 
 ### BACKEND API Endpoints
+
 Menu Items - Retrieve All Menu Items
+```
     URL: /api/menu/
     Method: GET
+```
+
 
 
 Retrieve Specific Menu Item
+
+```
     URL: /api/menu/<int:pk>/
     Method: GET
+```
+
+
 
 Display Menu Item
+
+```
     URL: /api/menu_item/<int:pk>/
     Method: GET
+```
+
+
 
 Bookings - Create and List Bookings
+```
     URL: /api/bookings/
     Methods: GET, POST
+```
 
 Retrieve, Update, and Delete Specific Booking
+```
     URL: /api/bookings/<int:pk>/
     Methods: GET, PUT, DELETE
-
+```
 
 ## Getting Started
 To get a local copy up and running, follow these simple steps.
