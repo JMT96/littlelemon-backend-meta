@@ -1,4 +1,4 @@
-# Restaurant Reservation and Menu Management
+# Little Lemon - Restaurant Reservation and Menu Management :lemon:
 ## Welcome to the Restaurant Reservation and Menu Management System! This project allows users to explore the restaurant menu, make bookings, and learn more about the restaurant.
 
 
