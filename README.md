@@ -58,7 +58,7 @@ Retrieve, Update, and Delete Specific Booking
 ## Getting Started :key:
 To get a local copy up and running, follow these simple steps.
 
-### Prerequisites
+## Prerequisites
 Python 3.x
 Django
 MySQL
@@ -76,7 +76,7 @@ git clone https://github.com/JMT96/littlelemon-backend-meta.git
 pip install -r requirements.txt
 ```
 or
-# Install dependencies from PipEnv
+### Install dependencies from PipEnv
 ```
 pipenv install
 ```
