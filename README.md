@@ -2,7 +2,7 @@
 ## Welcome to the Restaurant Reservation and Menu Management System! This project allows users to explore the restaurant menu, make bookings, and learn more about the restaurant.
 
 
-### FRONTEND VIEW'S
+### FRONTEND VIEW'S :hear_no_evil:
 Home:
     URL: /
 
@@ -15,7 +15,7 @@ Booking Page:
 Menu Page:
     URL: /menu/
 
-### BACKEND API Endpoints 
+### BACKEND API Endpoints :rocket:
 
 Menu Items - Retrieve All Menu Items
 ```
@@ -55,7 +55,7 @@ Retrieve, Update, and Delete Specific Booking
     Methods: GET, PUT, DELETE
 ```
 
-## Getting Started
+## Getting Started :key:
 To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
@@ -64,13 +64,22 @@ Django
 MySQL
 
 
-## Installation
+
+
+## Installation :gear:
 
 ### Clone the repo
 git clone https://github.com/JMT96/littlelemon-backend-meta.git
 
-### Install Django packages
+### Install dependencies from venv.
+```
 pip install -r requirements.txt
+```
+or
+# Install dependencies from PipEnv
+```
+pipenv install
+```
 
 ### Configure your database settings in settings.py.
 
@@ -81,8 +90,7 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-
-### Start the development server
+### Start the development server :star:
 
 ```
 python manage.py runserver
@@ -90,13 +98,20 @@ python manage.py runserver
 
 
 
-## Usage
+
+## Usage :beginner:
 Visit the homepage at http://127.0.0.1:8000/.
 
-License
+
+
+
+## License :warning: 
 Distributed under the MIT License. See LICENSE for more information.
 
-Contact
-Your Name - joshunoseke32@gmail.com
 
+
+
+## Contact :telephone_receiver:
+
+Your Name - joshunoseke32@gmail.com
 Project Link: https://github.com/JMT96/littlelemon-backend-meta
