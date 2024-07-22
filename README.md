@@ -59,17 +59,19 @@ pip install -r requirements.txt
 
 ### Run the migrations
 
-'''
+```
 python manage.py makemigrations
 python manage.py migrate
-'''
+```
 
 
 ### Start the development server
 
-'''
+```
 python manage.py runserver
-'''
+```
+
+
 
 ## Usage
 Visit the homepage at http://127.0.0.1:8000/.
